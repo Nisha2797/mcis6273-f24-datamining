@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "name": "openaq-api",
+    "license": "",
+    "website": "/",
+    "page": 1,
+    "limit": 10000,
+    "found": 0
+  },
+  "results": []
+}
